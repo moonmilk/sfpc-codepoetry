@@ -11,3 +11,5 @@ Word-bothering made easy: quick text explorations with python
 # resources
 * NLTK is natural language toolkit for python http://www.nltk.org/
 * PATTERN is ditto for ditto http://www.clips.ua.ac.be/pattern
+* RITA - language libraries for java and javascript https://rednoise.org/rita/
+* WORDNIK - online API - access by browser or using API library https://www.wordnik.com/
