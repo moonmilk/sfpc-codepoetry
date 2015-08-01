@@ -16,3 +16,5 @@ Word-bothering made easy: quick text explorations with python
 * KIMONO LABS - scrape web sites and extract info for you https://www.kimonolabs.com/
 
 * SOWPODS - scrabble dictionary https://code.google.com/p/scrabblehelper/source/browse/trunk/ScrabbleHelper/src/dictionaries/
+
+* DARIUS' CORPORA - all kinds of lists of things https://github.com/dariusk/corpora
