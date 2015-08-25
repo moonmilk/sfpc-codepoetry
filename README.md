@@ -9,6 +9,8 @@ Word-bothering made easy: quick text explorations with python
 * Not every exploration comes up with anything interesting.
 
 # resources
+* The CMU Pronouncing Dictionary is my favorite wordlist for word-bothering: http://www.speech.cs.cmu.edu/cgi-bin/cmudict
+* PronouncingJS is a handy javascript wrapper for the CMU Pronouncing Dictionary: https://github.com/aparrish/pronouncingjs
 * NLTK is natural language toolkit for python http://www.nltk.org/
 * PATTERN is ditto for ditto http://www.clips.ua.ac.be/pattern
 * RITA - language libraries for java and javascript https://rednoise.org/rita/
